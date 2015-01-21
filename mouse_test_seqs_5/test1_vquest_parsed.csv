@@ -1,0 +1,6 @@
+sample, productive, low ID, V gene, V identity, J gene, J identity, D gene, D identity, V nt mut, V silent mut, V nonsilent mut, FR1 nt mut, FR1 silent mut, FR1 nonsilent mut, CDR1 nt mut, CDR1 silent mut, CDR1 nonsilent mut, FR2 nt mut, FR2 silent mut, FR2 nonsilent mut, CDR2 nt mut, CDR2 silent mut, CDR2 nonsilent mut, FR3 nt mut, FR3 silent mut, FR3 nonsilent mut, CDR3 nt mut, CDR3 silent mut, CDR3 nonsilent mut, V aa mut
+ 06A_A1_A3-1_Abvec.seq,Productive, ,IGHV1-9*01,,IGHJ3*01,,,,4,3,1,2,2,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,
+ 06C_C1_D2-1_Abvec.seq,Productive, ,IGHV1-64*01,,IGHJ3*01,,,,17,4,13,1,1,0,2,1,1,2,1,1,2,0,2,10,1,9,0,0,0,11,
+ 06E_E1_G2-1_Abvec.seq,No rearrangement, ,IGHV1-55*01,,,,,,42,5,37,7,2,5,5,0,5,7,2,5,6,0,6,18,2,16,,,,29,
+ 07A_A2_G2-5_Abvec.seq,No rearrangement, ,IGHV1-55*01,,,,,,42,4,38,7,1,6,5,0,5,7,2,5,6,0,6,18,2,16,,,,29,
+ 07A_C2_H2-1ABV.seq,Productive, ,IGHV1-18*01,,IGHJ3*01,,,,6,3,3,5,3,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,
